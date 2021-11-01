@@ -1,4 +1,4 @@
-import {App, Navbar, Link} from 'tailwind-mobile/react';
+import {App, Navbar} from 'tailwind-mobile/react';
 
 export default function Home() {
   return (
